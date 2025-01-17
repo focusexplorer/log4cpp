@@ -1,5 +1,6 @@
 ## 基于以下代码构建，当前仓库未修改原代码
 https://log4cpp.sourceforge.net/ 
+原代码最后更新日期2016年，可以直接构建。
 
 ## 源代码可以直接编译
 不建议使用CMakeLists.txt，可以直接configure构建。
